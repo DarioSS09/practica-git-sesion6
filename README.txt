@@ -111,3 +111,5 @@ Autor: Rubén Darío Sossa Sánchez
 
 Descripción:
 Este proyecto corresponde a la práctica de GitHub Pages utilizando la plantilla HTML5 UP Lens.
+
+Última actualización para la práctica de GitHub.

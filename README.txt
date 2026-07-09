@@ -104,3 +104,10 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Práctica Git Sesión 6
+
+Autor: Rubén Darío Sossa Sánchez
+
+Descripción:
+Este proyecto corresponde a la práctica de GitHub Pages utilizando la plantilla HTML5 UP Lens.
